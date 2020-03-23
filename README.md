@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+El presente proyecto necesita de las siguientes librerias
+
+npm axios bootstrap
+
+npm install --save ag-grid-community ag-grid-react
+
+Luego ejecutar con 
+
+npm run start
+
 ## Available Scripts
 
 In the project directory, you can run:
